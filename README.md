@@ -145,7 +145,3 @@ The SQL analysis is organized into three sections.
 - Customer Segmentation
 - Running Totals
 - Business Analytics
-
-**Kaustav Biswas**
-
-GitHub: https://github.com/N3M3515069
